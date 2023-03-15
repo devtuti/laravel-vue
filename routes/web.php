@@ -22,3 +22,6 @@ Route::get('/lesson2', function () {
 Route::get('/lesson3', function () {
     return view('lesson3');
 });
+Route::get('/lesson4', function () {
+    return view('lesson4');
+});

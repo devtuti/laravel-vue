@@ -23,6 +23,7 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
 Vue.component('lesson-1', require('./components/Lesson1.vue').default);
 Vue.component('lesson-2', require('./components/Lesson2.vue').default);
 Vue.component('lesson-3', require('./components/Lesson3.vue').default);
+Vue.component('lesson-4', require('./components/Lesson4.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
